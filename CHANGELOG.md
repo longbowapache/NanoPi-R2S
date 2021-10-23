@@ -1,3 +1,6 @@
+## 20211023
+* 增加frp，luci-app-frpc
+
 ## 20210720
 * 增加常用的软件包: htop, aria2, gzip, unzip
 
