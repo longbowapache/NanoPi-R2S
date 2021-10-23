@@ -62,6 +62,7 @@ jobs:
 
           # frps
           git clone https://github.com/kuoruan/openwrt-frp.git frp
+          git clone https://github.com/kuoruan/luci-app-frpc.git luci-app-frpc
 
 
       - name: Update Target.mk
