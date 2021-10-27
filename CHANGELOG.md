@@ -1,5 +1,6 @@
 ## 20211027
 * add vlmcsd
+* delete shortcut-sfe
 
 ## 20211023
 * 增加frp，luci-app-frpc
